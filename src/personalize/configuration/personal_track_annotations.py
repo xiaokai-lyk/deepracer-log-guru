@@ -139,6 +139,9 @@ vivalas_speedway_annotations = []
 
 rl_speedway_annotations = []
 
+rl_speedway_ccw_annotations = []
+
+
 rogue_raceway_annotations = []
 
 rogue_raceway_cw_annotations = []
